@@ -181,7 +181,7 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(64, 76, 255);
+  --text-voice-channel-color: rgb(0, 14, 217);
   --text-voice-channel-hover-color: #dcddde;
   --text-voice-channel-selected-text-color: #fff;
   --unread-text-channel-color: #fff;
