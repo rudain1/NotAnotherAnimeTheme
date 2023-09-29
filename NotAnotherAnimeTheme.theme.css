@@ -48,6 +48,10 @@
   */
   --home-icon-image-zoom: 100%;
 
+    /* HOME BUTTON ICON */
+  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-position: center; /* home button icon position [default: center] */
+  --home-size: 40px; /* home button icon size [default: 40px] */
   /*
     Server Listing Width
     Single Column:  62px
