@@ -47,16 +47,14 @@
     Change your friends icon image zoom
   */
   --home-icon-image-zoom: 100%;
-  --home-size: 40px
-    
-  */
+  /*
     Server Listing Width
     Single Column:  62px
     Double Column:  126px
     Triple Column:  184px
-    Quad Column:    242px
+    Quad Column:    242pX
   */
-  --server-listing-width: 90px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
