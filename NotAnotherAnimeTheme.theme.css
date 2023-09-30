@@ -77,7 +77,7 @@
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: red;
+  --unread-server-animation: blue;
 
   /*
     Video / Screen share buttons
@@ -148,7 +148,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(101, 0, 184, 0.2);
+  --scrollbar-color: rgba(0, 7, 148);
 
   /*
     Unread Message Divider
