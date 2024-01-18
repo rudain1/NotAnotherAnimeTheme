@@ -82,10 +82,10 @@
   /*
     Video / Screen share buttons
   */
-  --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
-  --video-screen-button-foreground-color: white;
-  --video-screen-button-background-hovor-color: rgba(200, 200, 200, 0.4);
-  --video-screen-button-foreground-hovor-color: white;
+  --video-screen-button-background-color: rgba(0, 65, 130, 0.2);
+  --video-screen-button-foreground-color: Blue;
+  --video-screen-button-background-hovor-color: rgba(0, 65, 130, 0.4);
+  --video-screen-button-foreground-hovor-color: Blue;
 
   /*
     Role Title Color
