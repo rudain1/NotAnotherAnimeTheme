@@ -185,7 +185,7 @@
   --text-voice-channel-hover-color: #1221ff;
   --text-voice-channel-selected-text-color: #0091ff;
   --unread-text-channel-color: #0BE;
-  --unread-text-channel-bubble-color: var(--main-theme-color);
+  --unread-text-channel-bubble-color: rgb(0, 145, 255);
 
   /*
     Folders
