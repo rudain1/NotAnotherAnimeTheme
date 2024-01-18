@@ -182,10 +182,10 @@
     Channel colors
   */
   --text-voice-channel-color: rgb(0, 14, 217);
-  --text-voice-channel-hover-color: #35b1d4;
-  --text-voice-channel-selected-text-color: #35b1d4;
+  --text-voice-channel-hover-color: #3ec9f0;
+  --text-voice-channel-selected-text-color: #3ec9f0;
   --unread-text-channel-color: #0BE;
-  --unread-text-channel-bubble-color: rgb(0, 145, 255);
+  --unread-text-channel-bubble-color: rgb(53, 177, 212);
 
   /*
     Folders
