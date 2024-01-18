@@ -184,7 +184,7 @@
   --text-voice-channel-color: rgb(0, 14, 217);
   --text-voice-channel-hover-color: #1221ff;
   --text-voice-channel-selected-text-color: #0091ff;
-  --unread-text-channel-color: #fff;
+  --unread-text-channel-color: #0BE;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
