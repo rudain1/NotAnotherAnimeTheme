@@ -174,9 +174,9 @@
   /*
     Message Search
   */
-  --message-search-menu-background-color: rgba(0, 0, 0, 0.8);
-  --message-search-container-background-color: rgba(0, 0, 0, 0.6);
-  --message-search-result-background-color: rgba(200, 200, 200, 0.05);
+  --message-search-menu-background-color: rgba(0, 192, 250, 0.5);
+  --message-search-container-background-color: rgba(0, 192, 250, 0.6);
+  --message-search-result-background-color: rgba(0, 5, 153, 0.05);
 
   /*
     Channel colors
