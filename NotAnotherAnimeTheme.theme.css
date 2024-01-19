@@ -125,7 +125,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(200, 200, 200, 0.1);
+  --message-hover-buttons-background: rgba(11, 0, 168, 0.1);
 
   /*
     Context Menu Transparency
@@ -165,11 +165,11 @@
   /*
     Emoji Menu
   */
-  --emoji-menu-background-color: rgba(0, 0, 0, 0.6);
-  --emoji-menu-sider-background-color: rgba(0, 0, 0, 0);
-  --emoji-menu-server-header-background-color: rgba(0, 0, 0, 0.8);
-  --emoji-menu-bottom-bar-background-color: black;
-  --emoji-menu-search-bar-background-color: rgba(200, 200, 200, 0.1);
+  --emoji-menu-background-color: rgba(0, 188, 245, 0.4);
+  --emoji-menu-sider-background-color: rgba(0, 7, 199, 0.2);
+  --emoji-menu-server-header-background-color: rgba(0, 7, 199, 0.8);
+  --emoji-menu-bottom-bar-background-color: blue;
+  --emoji-menu-search-bar-background-color: rgba(0, 7, 199, 0.1);
 
   /*
     Message Search
