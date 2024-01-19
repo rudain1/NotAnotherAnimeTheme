@@ -130,7 +130,7 @@
   /*
     Context Menu Transparency
   */
-  --context-menu-transparency: rgba(15, 15, 15, 0.8);
+  --context-menu-transparency: rgba(0, 191, 224, 0.3);
 
   /*
     Add Server / Discovery Icon
