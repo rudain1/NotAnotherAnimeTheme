@@ -168,7 +168,7 @@
   --emoji-menu-background-color: rgba(0, 188, 245, 0.4);
   --emoji-menu-sider-background-color: rgba(0, 229, 255, 0.2);
   --emoji-menu-server-header-background-color: rgba(0, 229, 255, 0.8);
-  --emoji-menu-bottom-bar-background-color: teal;
+  --emoji-menu-bottom-bar-background-color: rgb(0, 229, 255);
   --emoji-menu-search-bar-background-color: rgba(0, 229, 255, 0.1);
 
   /*
