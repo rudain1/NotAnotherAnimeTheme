@@ -166,10 +166,10 @@
     Emoji Menu
   */
   --emoji-menu-background-color: rgba(0, 188, 245, 0.4);
-  --emoji-menu-sider-background-color: rgba(0, 7, 199, 0.2);
-  --emoji-menu-server-header-background-color: rgba(0, 7, 199, 0.8);
-  --emoji-menu-bottom-bar-background-color: blue;
-  --emoji-menu-search-bar-background-color: rgba(0, 7, 199, 0.1);
+  --emoji-menu-sider-background-color: rgba(0, 229, 255, 0.2);
+  --emoji-menu-server-header-background-color: rgba(0, 229, 255, 0.8);
+  --emoji-menu-bottom-bar-background-color: teal;
+  --emoji-menu-search-bar-background-color: rgba(0, 229, 255, 0.1);
 
   /*
     Message Search
