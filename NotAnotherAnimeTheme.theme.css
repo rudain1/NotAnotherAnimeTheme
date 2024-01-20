@@ -166,8 +166,8 @@
     Emoji Menu
   */
   --emoji-menu-background-color: rgba(0, 188, 245, 0.4);
-  --emoji-menu-sider-background-color: rgba(0, 229, 255, 0.2);
-  --emoji-menu-server-header-background-color: rgba(0, 229, 255, 0.8);
+  --emoji-menu-sider-background-color: black;
+  --emoji-menu-server-header-background-color: black;
   --emoji-menu-bottom-bar-background-color: black;
   --emoji-menu-search-bar-background-color: rgba(0, 229, 255, 0.1);
 
